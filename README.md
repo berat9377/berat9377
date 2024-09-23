@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Pronouns: He/Him
+I'm currently studying A.I. Engineering at Hacettepe University.
+I'm currently working on improving my english from B2 to C1. Also learning Python, engineering math and physics.
+My current interest in technology is mostly depends on AI. Such as computer vision, deep/machine learning, neural networks etc.
+I'm really interested in music. I have been playing the electric guitar for 3 years. I mostly listen to thrash, death metal and rock. <!-- Metallica, Slayer, Megadeth, Arctic Monkeys, 
+I'm also interested in listening to classical music. Really love to listen to live symphony orchestra performances.
+How to reach me(via e-mail): beratsemertas@hacettepe.edu.tr
