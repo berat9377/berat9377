@@ -1,24 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Berat! 👋
 
-<!--
-**berat9377/berat9377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence Engineering student at Hacettepe University, currently transitioning into my second year. I am passionate about the intersection of AI, Systems Engineering, and Security.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working on
+*   **Languages:** Python, Java
+*   **Current Focus:** Deepening my understanding of LLM architectures, Backend Development, and Systems/Network Security.
+*   **Environment:** Arch<!-- btw --> Linux & Hyprland enthusiast.
+*   **Problem Solving:** Actively practicing algorithms and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Beyond the Code
+When I'm not in the terminal or reading up on AI integration, you can find me solving a Rubik's cube<!-- sub 50 on 3x3 and waiting for my pyraminx -->, playing Minecraft<!-- mostly GTNH -->, or playing heavy metal on my electric guitar.<!-- for 5 years 😉 -->
 
-Pronouns: He/Him
-I'm currently studying A.I. Engineering at Hacettepe University.
-I'm currently working on improving my english from B2 to C1. Also learning Python, engineering math and physics.
-My current interest in technology is mostly depends on AI. Such as computer vision, deep/machine learning, neural networks etc.
-I'm really interested in music. I have been playing the electric guitar for 3 years. I mostly listen to thrash, death metal and rock. <!-- Metallica, Slayer, Megadeth, Arctic Monkeys -->
-I'm also interested in listening to classical music. Really love to listen to live symphony orchestra performances.
-How to reach me(via e-mail): beratsemertas@hacettepe.edu.tr
+### 📫 Let's Connect
+*   **Email:** beratsemertas@hacettepe.edu.tr<!-- personal: nurismrts@gmail.com -->
+*   **LinkedIn:** https://www.linkedin.com/in/beratnuri/
